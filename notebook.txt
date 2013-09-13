@@ -3,3 +3,5 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 =======committing to git: 9/9 16:40====================
 9/12	JJ	17:33	18:00	0		1		30		preparing laptop/step 2
 =======committing to git: 9/12 18:24===================
+9/13	JJ	8:00	8:15	0		0		15		preparing laptop/step 2
+=======committing to git: 9/13 8:16====================

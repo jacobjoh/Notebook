@@ -1,3 +1,0 @@
-Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
-9/9	JJ	15:57	16:38	0		0		40		preparing laptop/steps 4,5
-=======committing to git: 9/9 16:40====================
